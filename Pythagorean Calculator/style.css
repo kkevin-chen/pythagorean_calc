@@ -1,0 +1,62 @@
+body {
+    background-color: maroon;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.all {
+    border-radius: 25px;
+    background-color: white;
+    padding: 30px 75px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+div.interior {
+    background-color: rgb(235, 235, 235);
+    padding: 10px 50px;
+    border: 1px solid grey;
+}
+
+.image {
+    text-align: center;
+}
+
+.image:hover {
+    border: solid
+}
+
+h1 {
+    color: #808000;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h2, h3, .question {
+    color: maroon;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+p {
+    letter-spacing: 0.3px;
+}
+
+.button {
+    font-variant: small-caps;
+    font-size: 18px;
+    background-color: #808000;
+    color: white;
+    font-weight: normal;
+    padding: 1px 10px 2px;
+    font-family: 'Open Sans', serif;
+}
+
+.question{
+    font-weight: bold;
+    letter-spacing: 0px;
+}
+
+.calculate{
+    border: 1px solid black;
+    font-variant: small-caps;
+    font-weight: bold;
+}
